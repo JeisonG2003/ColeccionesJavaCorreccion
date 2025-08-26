@@ -1,8 +1,8 @@
 ## Colección  java Corrección
 
-*ACTIVIDAD DE CORRECCIÓN DE CÓDIGO EN JAVA*
+**ACTIVIDAD DE CORRECCIÓN DE CÓDIGO EN JAVA**
 
-Repositorio del proyecto desarrollado para la asignatura Programación Orientada a Objetos (POO) en la Universidad Estatal Amazónica, carrera de Ingeniería en Tecnologías de la Información.
+Repositorio del proyecto desarrollado para la asignatura **Programación Orientada a Objetos (POO)** en la **Universidad Estatal Amazónica**, carrera de **Ingeniería en Tecnologías de la Información**.
 
 ## Descripción
 
@@ -11,8 +11,8 @@ Incluye la versión original con errores y la versión corregida, aplicando buen
 
 ## Autor
 
-*Jeison Teobaldo García Arreaga*
+**Jeison Teobaldo García Arreaga**
 
 ## Materia
 
-*Programación Orientada a Objetos (E)*
+**Programación Orientada a Objetos (E)**
